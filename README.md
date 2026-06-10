@@ -15,6 +15,8 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 ---
+I'm choosing the domain to be course and professor reviews at CUNY Baruch College for mathematics courses. It will include more details like worklaod (hours per week), how to prepare for exams, etc. 
+
 
 ## Document Sources
 
@@ -24,16 +26,17 @@
 
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Baruch Math Course Catalog|pdf document |".\MATH-BAR-2026-01-13-20-37-18.pdf" |
+| 2 | Coursicle Course Reviews | URL | https://www.coursicle.com/baruchcuny/courses/MTH/|
+| 3 | Reddit (Baruch subreddit)| URL | https://www.reddit.com/r/Baruch/|
+| 4 | Rate My Professors (Professor Arthur Apter)| URL | https://www.ratemyprofessors.com/ | https://www.ratemyprofessors.com/professor/206015
+| 5 | Rate My Professor (Professor Jonathan Engel)| URL | https://www.ratemyprofessors.com/search/professors/222?q=Jonathan%20Engel |
+| 6 | Rate My Professor (Professor Louis-Pierre Arguin)| URL | https://www.ratemyprofessors.com/professor/1959315 |
+| 7 | Rate My Professor (Professor Ivan Matic) | URL | https://www.ratemyprofessors.com/professor/1855876 |
+| 8 | Rate My Professor (Professor Peter Gregory) | URL | https://www.ratemyprofessors.com/professor/286765
+| 9 | Rate My Professor (Professor Warren Gordon) | URL| https://www.ratemyprofessors.com/professor/227325 |
+| 10 | Rate My Professor (Professor Miriam Hausman) | URL | https://www.ratemyprofessors.com/professor/275741 |
+
 
 ---
 

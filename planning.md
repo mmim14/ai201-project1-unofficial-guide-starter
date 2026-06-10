@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+I'm choosing the domain to be course and professor reviews at CUNY Baruch College for mathematics courses. It will include more details like worklaod (hours per week), how to prepare for exams, etc. Rate My Professors don't have details about the course and often times students have to hunt down other students who took the classes before to know more details, but that can be difficult. Having details about how to be successful in the specific course sets students for success. 
 
 ---
 
@@ -18,18 +19,18 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Type | URL or file path |
+|---|--------|------|-----------------|
+| 1 | Baruch Math Course Catalog|pdf document |".\MATH-BAR-2026-01-13-20-37-18.pdf" |
+| 2 | Coursicle Course Reviews | URL | https://www.coursicle.com/baruchcuny/courses/MTH/|
+| 3 | Reddit (Baruch subreddit)| URL | https://www.reddit.com/r/Baruch/|
+| 4 | Rate My Professors (Professor Arthur Apter)| URL | https://www.ratemyprofessors.com/ | https://www.ratemyprofessors.com/professor/206015
+| 5 | Rate My Professor (Professor Jonathan Engel)| URL | https://www.ratemyprofessors.com/search/professors/222?q=Jonathan%20Engel |
+| 6 | Rate My Professor (Professor Louis-Pierre Arguin)| URL | https://www.ratemyprofessors.com/professor/1959315 |
+| 7 | Rate My Professor (Professor Ivan Matic) | URL | https://www.ratemyprofessors.com/professor/1855876 |
+| 8 | Rate My Professor (Professor Peter Gregory) | URL | https://www.ratemyprofessors.com/professor/286765
+| 9 | Rate My Professor (Professor Warren Gordon) | URL| https://www.ratemyprofessors.com/professor/227325 |
+| 10 | Rate My Professor (Professor Miriam Hausman) | URL | https://www.ratemyprofessors.com/professor/275741 |
 
 ---
 
@@ -41,10 +42,12 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+I have multiple documents of various types. I would chunk the catalog by page and reviews on Rate My Professor and reddit post by itself. 
 
 **Overlap:**
 
 **Reasoning:**
+The pages in the catalog is fairly split into pages. Reviews are best represented in the whole chunk than cutting it off. 
 
 ---
 
