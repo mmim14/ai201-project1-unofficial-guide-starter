@@ -50,12 +50,12 @@ I'm choosing the domain to be course and professor reviews at CUNY Baruch Colleg
      - What your final chunk count was across all documents -->
 
 **Chunk size:**
+I have multiple documents of various types. I would chunk the catalog by page and reviews on Rate My Professor and reddit post by itself. 
 
 **Overlap:**
 
-**Why these choices fit your documents:**
-
-**Final chunk count:**
+**Reasoning:**
+The pages in the catalog is fairly split into pages. Reviews are best represented in the whole chunk than cutting it off.
 
 ---
 
